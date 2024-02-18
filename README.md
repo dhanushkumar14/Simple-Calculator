@@ -1,0 +1,1 @@
+This code defines four functions for addition, subtraction, multiplication, and division. It then presents a menu to the user to choose the operation they want to perform and prompts them to enter the numbers accordingly. After displaying the result, it asks if the user wants to perform another calculation. If not, the program exits.
